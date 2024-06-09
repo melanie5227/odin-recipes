@@ -1,1 +1,1 @@
-# odin-recipes
+I feel like this should be much more straight forward  When coding in VS code I am able to open up the index page and it shows links to all three recipe pages.  I click on the recipe and it taks me to those pages.  Everything has been pushed to Git and appears to be up to date.  When I publish my site i can see the index page but each link results in a 404 page.  # odin-recipes
