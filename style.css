@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(250, 243, 234);
+}
+h1{
+    Color: rgb(148, 43, 43);
+    Font-family: "Brush Script MT", "Times New Roman";
+    Font-size: 50px;
+    text-align: center;
+
+
+}
+a{
+    color: rgb(241, 120, 118);
+    Font-family: Georgia, "Times New Roman";
+}
+li{
+    color: rgb(241, 120, 118);
+}
