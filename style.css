@@ -6,13 +6,26 @@ h1{
     Font-family: "Brush Script MT", "Times New Roman";
     Font-size: 50px;
     text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 25px 0px;
+    border: dashed rgb(241, 120, 118) 3px;
+    width: 600px;
+    margin: auto;
 
 
 }
 a{
     color: rgb(241, 120, 118);
     Font-family: Georgia, "Times New Roman";
+    margin: 20px;
+    
 }
 li{
-    color: rgb(241, 120, 118);
+    
+    display: inline-block;
+    padding: 40px;   
+}
+ul{
+    text-align: center;
+    padding: 0px 25px;
 }
